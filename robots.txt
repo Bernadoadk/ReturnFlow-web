@@ -16,4 +16,4 @@ User-agent: Google-Extended
 Disallow: /
 
 # Sitemap location
-Sitemap: https://returnflow.app/sitemap.xml
+Sitemap: https://return-flow-web.vercel.app/sitemap.xml
